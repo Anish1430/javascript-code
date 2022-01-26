@@ -19,4 +19,4 @@ const getIntersectionNode = (headA, headB) => {
         }   
     }
     return runnerA;
-};
+}
